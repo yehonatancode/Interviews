@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Q1 {
+public class map_Access {
 	// Create an empty hash map
 	public static void main(String[] args) {
 
